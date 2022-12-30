@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 As a developer, I am specialized in both 3D development with Unity and front-end web development. In my work with Unity, I have gained expertise in using the engine to create immersive 3D environments and experiences. I am proficient in C# scripting and have experience implementing gameplay mechanics, creating custom editor tools, and optimizing performance for a variety of platforms. In addition to my skills in 3D development, I am also well-versed in front-end web development technologies such as HTML, CSS, and JavaScript. I have experience building responsive, user-friendly websites and web applications that adhere to best practices for usability and accessibility. I am a proactive and detail-oriented individual with a passion for solving complex problems and delivering high-quality products. I am always eager to learn new technologies and techniques to continue growing as a developer.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [lukastomasek](http://https://www.lukastomasek.com/)
+* 🖥️  See my portfolio at [lukastomasek](https://www.lukastomasek.com/)
 * ✉️  You can contact me at [lkstomasek@gmail.com](mailto:lkstomasek@gmail.com)
 * 🧠  I'm learning iOS development
 
@@ -29,4 +29,4 @@ As a developer, I am specialized in both 3D development with Unity and front-end
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/lukastomasek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/lukastomasek](https://www.linkedin.com/in/lukas-tomasek-7826161a5/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/lukastomasek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukas-tomasek-7826161a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
