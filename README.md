@@ -29,4 +29,6 @@ As a developer, I am specialized in both 3D development with Unity and front-end
 
 ### Socials
 
+<a href="https://app.daily.dev/lukastomasek"><img src="https://api.daily.dev/devcards/v2/SzAL57objMYFTRhFWodDu.png?r=i7o&type=default" width="356" alt="Lukas Tomasek's Dev Card"/></a>
+
 <p align="left"> <a href="https://www.github.com/lukastomasek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lukas-tomasek-7826161a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
